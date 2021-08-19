@@ -22,7 +22,7 @@ Hosts in rotation, take the responsibility for drive meet up.
 - Larry
 - Ning  <<< current host here
 
-## Host guide
+## The Guide for facilitator
 
 1. Prepare topic
 2. Send invitation to group 
