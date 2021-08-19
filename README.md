@@ -1,8 +1,38 @@
 ## Online English Corner 
 
-Comming soon~
+Meeting Name：English Corner Online
 
-## Welcome to Chengdu English Corner
+https://meeting.tencent.com/dm/7ujh3GqCM1SM
+
+ID：953 1251 1861
+
+Please download Tencent Meeting.
+
+## English Corner Hosts
+
+
+Hosts Lead
+
+Rachel, take the responsibility for making EC to be happended in time.
+
+Hosts in rotation, take the responsibility for drive meet up.
+
+- serafina
+- Inmars
+- Larry
+- Ning  <<< current host here
+
+
+## topics
+
+### 01. How to launch an English corner on line?
+
+
+
+## Chengdu English Corner
+
+Also, this is an offline English Corner where located in Chengdu.
+
 Good news! Our English corner is back! Feel free to come. But, you should know something about our EC before you come. 
 1. Venue: (天府广场赛百味店外摆区)
 2. Time: From 6:30pm to 8:30pm every Wednesday.
