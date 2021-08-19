@@ -6,6 +6,8 @@ https://meeting.tencent.com/dm/7ujh3GqCM1SM
 
 ID：953 1251 1861
 
+Date: 21:00 Sunday
+
 Please download Tencent Meeting.
 
 ## English Corner Hosts
