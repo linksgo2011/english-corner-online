@@ -22,8 +22,27 @@ Hosts in rotation, take the responsibility for drive meet up.
 - Larry
 - Ning  <<< current host here
 
+## Host guide
 
-## topics
+1. Prepare topic
+2. Send invitation to group 
+3. Summary the output
+
+invitation template:
+
+```
+
+English Corner Online No.[number of meetup]
+Topic: [topic]
+Time: [Time]
+introduce: [Simple description for this meetup]
+Meeting Link: [Meeting link]
+
+```
+
+
+
+## Topics
 
 ### 01. How to launch an English corner on line?
 
