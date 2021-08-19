@@ -44,7 +44,7 @@ Meeting Link: [Meeting link]
 
 ## Topics
 
-- 01. How to launch an English corner on line?
+1. How to launch an English corner on line?
 
 
 
