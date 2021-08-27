@@ -19,10 +19,10 @@ Rachel, take the responsibility for making EC to be happended in time.
 
 Hosts in rotation, take the responsibility for drive meet up.
 
-- serafina
+- serafina <<< current host here
 - Inmars
 - Larry
-- Ning  <<< current host here
+- Ning  
 
 ## The Guide for facilitator
 
@@ -46,7 +46,14 @@ Meeting Link: [Meeting link]
 
 ## Topics
 
-1. How to launch an English corner on line?
+### 2021.08.22 How to launch an English corner on line?
+
+Online workshop for ideas collection.
+
+
+### 2021.08.29 Women’s rights and the US’s ‘civilising’ mission in Afghanistan 【current topic】 
+
+Reference link: https://www.aljazeera.com/opinions/2021/8/21/white-women-washing-the-uss-civilising-mission-in-afghanistan
 
 
 
