@@ -57,7 +57,7 @@ Online workshop for ideas collection.
 
 Women’s rights and the US’s ‘civilising’ mission in Afghanistan 
 
-Reference link: https://www.aljazeera.com/opinions/2021/8/21/white-women-washing-the-uss-civilising-mission-in-afghanistan
+Reference link: ![https://www.aljazeera.com/opinions/2021/8/21/white-women-washing-the-uss-civilising-mission-in-afghanistan](https://www.aljazeera.com/opinions/2021/8/21/white-women-washing-the-uss-civilising-mission-in-afghanistan)
 
 
 
