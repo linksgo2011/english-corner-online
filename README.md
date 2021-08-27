@@ -46,12 +46,16 @@ Meeting Link: [Meeting link]
 
 ## Topics
 
-### 2021.08.22 How to launch an English corner on line?
+### 2021.08.22
+
+How to launch an English corner on line?
 
 Online workshop for ideas collection.
 
 
-### 2021.08.29 Women’s rights and the US’s ‘civilising’ mission in Afghanistan 【current topic】 
+### 2021.08.29【current topic】 
+
+Women’s rights and the US’s ‘civilising’ mission in Afghanistan 
 
 Reference link: https://www.aljazeera.com/opinions/2021/8/21/white-women-washing-the-uss-civilising-mission-in-afghanistan
 
