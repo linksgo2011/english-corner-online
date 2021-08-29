@@ -19,8 +19,8 @@ Rachel, take the responsibility for making EC to be happended in time.
 
 Hosts in rotation, take the responsibility for drive meet up.
 
-- serafina <<< current host here
-- Inmars
+- serafina 
+- Inmars <<< current host here
 - Larry
 - Ning  
 
